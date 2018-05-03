@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music list</string>
+    <string name="main_screen_title">Search songs</string>
+    <string name="edit_text_artist_name">Enter Artist\'s Name</string>
+    <string name="btn_search">Search</string>
+    <string name="activity_tracks_list">TrackListActivity</string>
+    <string name="searchedit_text_error">Please enter the name of the artist for which songs are to be searched</string>
+    <string name="genre_name">GENRE</string>
+    <string name="album_name">ALBUM NAME</string>
+</resources>
